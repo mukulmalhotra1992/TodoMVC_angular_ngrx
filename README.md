@@ -1,7 +1,7 @@
 <h1>TodoMvc Angular Ngrx App</h1>
 <p>Is the example for use Angular + Ngrx (Redux) for a <a href="http://todomvc.com/" rel="nofollow" target="_blank">TodoMVC App</a></p>
 
-<p>You can see all files about redux in <a href="https://github.com/nicobytes/todo-app-ngrx/tree/master/src/redux" target="_blank">TodoMVC App</a></p>
+<p>You can see all files about redux in <a href="https://github.com/mukulmalhotra1992/TodoMVC_angular_ngrx/tree/master/src/redux" target="_blank">TodoMVC App</a></p>
 
 <p>Built with <a href="https://github.com/angular/angular-cli" target="_blank">@angular/cli</a></p>
 
