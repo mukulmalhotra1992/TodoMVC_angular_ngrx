@@ -1,0 +1,23 @@
+<section id="main" class="main" *ngIf="todo">
+  <div class="toggle_view">
+    <input type="checkbox" id="toggle-all" class="toggle-all">
+    <label class="cursor_pointer" (click)="completeAllTodo()">Mark all as Complete</label>
+  </div>
+  <ul id="todo-list" class="todo-list">
+    <li [class.completed]="todo.completed" *ngFor="let todo of todo">
+      <div class="view">
+        <input 
+        type="checkbox"
+        id="toogle" 
+        class="toggle"
+        (click)="toggleTodo(todo.id)"
+        [checked]="todo.completed"
+        />
+        <label>
+          {{ todo.text }}
+        </label>
+        <button class="destroy" (click)="deleteTodo(todo.id)"></button>
+      </div>
+    </li>
+  </ul>
+</section>
