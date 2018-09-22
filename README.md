@@ -16,7 +16,8 @@
 git clone https://github.com/mukulmalhotra1992/TodoMVC_angular_ngrx.git <br>
 <span class="pl-c"><span class="pl-c">#</span> Install the dependencies:</span>
 npm install<br>
-<span class="pl-c"><span class="pl-c">#</span> start the server</span>
+<span class="pl-c"><span class="pl-c">#</span> start the server and it will run on 
+"http://localhost:8080/" and later you can reconfigure in package.json file</span>
 npm run start</pre></div>
 
 <h3>Features</h3>
