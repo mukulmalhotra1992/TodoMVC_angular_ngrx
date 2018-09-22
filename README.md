@@ -26,3 +26,10 @@ npm run start</pre></div>
 <li>Redux with ngrx</li>
 <li>Persistence</li>
 </ul>
+
+<h3>Redux Dev Tools</h3>
+<p>Install Redux Dev tools for better understanding and see how Redux app actually works.</p>
+<ul>
+<li>Redux Dev Tools Info <a href="https://github.com/zalmoxisus/redux-devtools-extension" target="_blank">link</a></li>
+<li><a href="https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en" target="_blank">Download Redux Tool For Chrome</a></li>
+</ul>
